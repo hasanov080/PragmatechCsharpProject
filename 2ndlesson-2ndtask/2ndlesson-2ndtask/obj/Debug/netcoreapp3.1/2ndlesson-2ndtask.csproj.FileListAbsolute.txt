@@ -1,0 +1,13 @@
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/bin/Debug/netcoreapp3.1/2ndlesson-2ndtask.deps.json
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/bin/Debug/netcoreapp3.1/2ndlesson-2ndtask.runtimeconfig.json
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/bin/Debug/netcoreapp3.1/2ndlesson-2ndtask.runtimeconfig.dev.json
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/bin/Debug/netcoreapp3.1/2ndlesson-2ndtask.dll
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/bin/Debug/netcoreapp3.1/2ndlesson-2ndtask.pdb
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.csproj.AssemblyReference.cache
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.AssemblyInfoInputs.cache
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.AssemblyInfo.cs
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.dll
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.pdb
+/Users/hasan/Projects/2ndlesson-2ndtask/2ndlesson-2ndtask/obj/Debug/netcoreapp3.1/2ndlesson-2ndtask.genruntimeconfig.cache
