@@ -1,0 +1,13 @@
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.csproj.AssemblyReference.cache
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.AssemblyInfoInputs.cache
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.AssemblyInfo.cs
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/1st-task/1st-task/bin/Debug/netcoreapp3.1/1st-task.deps.json
+/Users/hasan/Projects/1st-task/1st-task/bin/Debug/netcoreapp3.1/1st-task.runtimeconfig.json
+/Users/hasan/Projects/1st-task/1st-task/bin/Debug/netcoreapp3.1/1st-task.runtimeconfig.dev.json
+/Users/hasan/Projects/1st-task/1st-task/bin/Debug/netcoreapp3.1/1st-task.dll
+/Users/hasan/Projects/1st-task/1st-task/bin/Debug/netcoreapp3.1/1st-task.pdb
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.dll
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.pdb
+/Users/hasan/Projects/1st-task/1st-task/obj/Debug/netcoreapp3.1/1st-task.genruntimeconfig.cache
